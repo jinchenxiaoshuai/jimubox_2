@@ -1,0 +1,13 @@
+{
+  "name": "fis-jade",
+  "version": "1.0.0",
+  "description": "fis jade",
+  "keywords": [
+  	"fis"
+  ],
+  "dependencies": {
+    "fis-parser-jade": "0.0.11"
+  },
+  "author": "lz",
+  "license": "ISC"
+}
